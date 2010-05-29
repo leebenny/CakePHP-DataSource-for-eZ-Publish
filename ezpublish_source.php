@@ -4,7 +4,7 @@
  *
  * @author      bennylee <lee-huabin@mitsue.co.jp>
  * @copyright   Copyright(C) 2010 Mitsue-Links Co.,Ltd. All rights reserved.
- * @version     1.0
+ * @version     0.01
  * @since       2010/05/18
  * 
  **/
